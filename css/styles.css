@@ -2,26 +2,40 @@
 
 
 body {
-	background: #000;
+	
 }
 
 
+p, h3{
+	font-family: 'Allerta', sans-serif;
+}
+
+
+h3 {
+	text-transform: uppercase;
+} 
+
 header {
-    background: #0FF;
+  
 }
 
 nav {
-	background: #987;
+	
 }
 
 blockquote {
-	background: #573;
+	
+	text-align: center;
 }
 
 .container_12 {
-	background: #FFF;
+	background: #FC6;
 }
 
 footer {
-	background: purple;
+	background: darkred;
+}
+
+section {
+	background: lightblue;
 }
